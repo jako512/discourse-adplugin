@@ -1,4 +1,7 @@
 en:
+  js:
+    ads:
+      label: 'REKLAMA'
   admin_js:
     admin:
       site_settings:

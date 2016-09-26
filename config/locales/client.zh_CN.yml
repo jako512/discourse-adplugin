@@ -1,4 +1,7 @@
 zh_CN:
+  js:
+    ads:
+      label: '广告'
   admin_js:
     admin:
       site_settings:

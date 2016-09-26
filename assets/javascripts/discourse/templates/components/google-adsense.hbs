@@ -1,6 +1,6 @@
 {{#if checkTrustLevels}}
   {{#if site.mobileView}}
-    <div class="google-adsense-label" style={{adTitleStyleMobile}}><h2>ADVERTISEMENT</h2></div>
+    <div class="google-adsense-label" style={{adTitleStyleMobile}}><h2>{{i18n 'ads.label'}}</h2></div>
     <div class="google-adsense-content" style={{adWrapperStyleMobile}}>
       <ins class="adsbygoogle"
         style={{adInsStyleMobile}}
@@ -13,7 +13,7 @@
       </script>
     </div>
   {{else}}
-    <div class="google-adsense-label"><h2>ADVERTISEMENT</h2></div>
+    <div class="google-adsense-label"><h2>{{i18n 'ads.label'}}</h2></div>
     <div class="google-adsense-content" style={{adWrapperStyle}}>
       <ins class="adsbygoogle"
         style={{adInsStyle}}

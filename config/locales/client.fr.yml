@@ -1,4 +1,7 @@
 fr:
+  js:
+    ads:
+      label: 'PUBLICITÉ'
   admin_js:
     admin:
       site_settings:

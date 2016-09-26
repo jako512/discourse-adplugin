@@ -1,4 +1,7 @@
 es:
+  js:
+    ads:
+      label: 'ANUNCIO'
   admin_js:
     admin:
       site_settings:
